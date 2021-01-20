@@ -1,0 +1,27 @@
+{Batman V Superman: Dawn of Justice#7$2016%Henry Cavill, Ben Affleck, Amy Adams, Jesse Eisenberg.}
+{Man Of Steel#0.2$2013%Henry Cavill, Amy Adams, Michael Shannon.}
+{Suicide Squad#6.5$2017%Margot Robbie, Will Smith, Jared Leto, Scott Eastwood.}
+{Justice League#6.7$2017%Ben Affleck, Henry Cavill, Gal Gadot, Ezra Miller.}
+{Batman Begins#8$2005%Christian Bale, Katie Holmes, Liam Neeson.}
+{Wonder Woman#7.8$2017%Gal Gadot, Chris Pine, Robin Wright.}
+{Brokeback Mountain#8$2005%Heath Ledger, Jake Gyllenhaal.}
+{The Incredible Hulk#7.2$2006%Edward Norton, Jessica Biel.}
+{Iron Man#7.4$2008%Robert Downey Jr, Gwyneth Paltrow, Jon Favreau.}
+{Iron Man 2#6.5$2010%Robert Downey Jr, Gwyneth Paltrow, Don Cheadle.}
+{Thor#7$2011%Chris Hemsworth, Natalie Portman, Tom Hiddleston.}
+{Thor: The Dark World#6.3$2013%Chris Hemsworth, Idris Elba, Natalie Portman, Tom Hiddleston.}
+{Iron Man 3#6.5$2012%Robert Downey Jr, Gwyneth Paltrow, Aaron Eckhart.y}
+{Thor: Ragnarok#7.2$2018%Chris Hemsworth, Tom Hiddleston, Anthony Hopkins}
+{Avengers#7.6$2012%Robert Downey Jr, Chris Evans, Chris Hemsworth, Scarlett Johansson.}
+{Avengers: Age of Ultron#7$2014%Robert Downey Jr, Chris Hemsworth, Chris Evans, Mark Ruffalo.}
+{Avengers: Infinity War#7.6$2018%Robert Downey, Chris Evans, Chris Hemsworth, Josh Brolin.}
+{Avengers: Endgame#7.4$2019%Robert Downey, Chris Evans, Mark Ruffalo, Chadwick Boseman, Josh Brolin.}
+{Black Panther#7.9$2018%Chadwick Boseman, Michael B. Jordan, Lupita Nyong'o, Andy Serkis.}
+{Spiderman: Homecoming#7$2017%Tom Holland, Robert Downey Jr, Marisa Tomei, Michael Keaton.}
+{Spiderman: Far From Home#7.2$2019%Jake Gyllenhaal, Tom Holland, Marisa Tomei, Samuel Jackson.}
+{Doctor Strange#7.6$2016%Benedict Cumberbatch, Rachel McAdams.}
+{Captain America: The First Avenger#7.5$2010%Chris Evans, Hayley Adams.}
+{Captain America: The Winter Soldier#8.2$2016%Chris Evans, Samuel Jackson, Scarlett Johansson, Sebastian Stan.}
+{Captain America: Civil War#7.4$2016%Chris Evans, Robert Downey Jr, Sebastian Stan, Jeremy Renner.}
+{Guardians of the Galaxy#7.6$2014%Chris Pratt, Bautista, Zoe Saldana, Bradley Cooper, Vin Diesel.}
+{Guardians of the Galaxy: Vol 2#7.3$2017%Chris Pratt, Zoe Saldana, Bautista, Karen Gillan.}

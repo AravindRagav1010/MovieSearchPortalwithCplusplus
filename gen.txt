@@ -1,0 +1,80 @@
+{Kung Fu Panda#8.2$2010%Jack Black, Jackie Chan, Angelina Jolie.}
+{Spiderman: Into the Spiderverse#8.5$2018%Jake Johnson, Hailee Steinfield, Mahershala Ali.}
+{Coco#8.4$2017%Anthony Gonsalez, Benjamin Bratt, Jaime Camill.}
+{Inside Out#8.2$2015%Mindy Kaling, Kaitlyn Dias, Richard Kind.}
+{Toy Story#8.3$1995%Tom Hanks, Tim Allen.}
+{The Lion King#8.5$1994%James Earl Jone Jeremy Irons, Nathan Lane.}
+{Cars#7.1$2006%Owen Wilson, Larry the Cable Guy, Bonnie Hunt.}
+{Finding Nemo#8.1$2003%Ellen DeGeneres, Albert Brooks, Alexander Gould.}
+{The Incredibles#8$2004%Brad Bird, Holly Hunter, Craig T. Nelson.}
+{Up#8.2$2009%Ed Asner, Pete Docter, Jordon Nagai.}
+{Batman V Superman: Dawn of Justice#7$2016%Henry Cavill, Ben Affleck, Amy Adams, Jesse Eisenberg.}
+{Man Of Steel#0.2$2013%Henry Cavill, Amy Adams, Michael Shannon.}
+{Suicide Squad#6.5$2017%Margot Robbie, Will Smith, Jared Leto, Scott Eastwood.}
+{Justice League#6.7$2017%Ben Affleck, Henry Cavill, Gal Gadot, Ezra Miller.}
+{Batman Begins#8$2005%Christian Bale, Katie Holmes, Liam Neeson.}
+{Wonder Woman#7.8$2017%Gal Gadot, Chris Pine, Robin Wright.}
+{Brokeback Mountain#8$2005%Heath Ledger, Jake Gyllenhaal.}
+{The Incredible Hulk#7.2$2006%Edward Norton, Jessica Biel.}
+{Iron Man#7.4$2008%Robert Downey Jr, Gwyneth Paltrow, Jon Favreau.}
+{Iron Man 2#6.5$2010%Robert Downey Jr, Gwyneth Paltrow, Don Cheadle.}
+{Thor#7$2011%Chris Hemsworth, Natalie Portman, Tom Hiddleston.}
+{Thor: The Dark World#6.3$2013%Chris Hemsworth, Idris Elba, Natalie Portman, Tom Hiddleston.}
+{Iron Man 3#6.5$2012%Robert Downey Jr, Gwyneth Paltrow, Aaron Eckhart.}
+{Thor: Ragnarok#7.2$2018%Chris Hemsworth, Tom Hiddleston, Anthony Hopkins}
+{Avengers#7.6$2012%Robert Downey Jr, Chris Evans, Chris Hemsworth, Scarlett Johansson.}
+{Avengers: Age of Ultron#7$2014%Robert Downey Jr, Chris Hemsworth, Chris Evans, Mark Ruffalo.}
+{Avengers: Infinity War#7.6$2018%Robert Downey, Chris Evans, Chris Hemsworth, Josh Brolin.}
+{Avengers: Endgame#7.4$2019%Robert Downey, Chris Evans, Mark Ruffalo, Chadwick Boseman, Josh Brolin.}
+{Black Panther#7.9$2018%Chadwick Boseman, Michael B. Jordan, Lupita Nyong'o, Andy Serkis.}
+{Spiderman: Homecoming#7$2017%Tom Holland, Robert Downey Jr, Marisa Tomei, Michael Keaton.}
+{Spiderman: Far From Home#7.2$2019%Jake Gyllenhaal, Tom Holland, Marisa Tomei, Samuel Jackson.}
+{Doctor Strange#7.6$2016%Benedict Cumberbatch, Rachel McAdams.}
+{Captain America: The First Avenger#7.5$2010%Chris Evans, Hayley Adams.}
+{Captain America: The Winter Soldier#8.2$2016%Chris Evans, Samuel Jackson, Scarlett Johansson, Sebastian Stan.}
+{Captain America: Civil War#7.4$2016%Chris Evans, Robert Downey Jr, Sebastian Stan, Jeremy Renner.}
+{Guardians of the Galaxy#7.6$2014%Chris Pratt, Bautista, Zoe Saldana, Bradley Cooper, Vin Diesel.}
+{Guardians of the Galaxy: Vol 2#7.3$2017%Chris Pratt, Zoe Saldana, Bautista, Karen Gillan.}
+{No Country For Old Men#8.1$2006%Javier Bardem, Josh Brolin, Woody Harrelson.}
+{Fight Club#8.9$1999%Brad Pitt, Edward Norton, Helena Bonham Carter.}
+{The Godfather#9.2$1972%Al Pacino, Marlon Brando, James Caan, Diane Keaton.}
+{Forrest Gump#8.8$1994%Tom Hanks, Robin Wright, Gary Sinise}
+{Pulp Fiction#9$1994%John Travolta, Uma Thurman, Samuel Jackson, Bruce Willis.}
+{The Dark Knight#9$2008%Christian Bale, Heath Ledger, Gary Oldman.}
+{The Shawshank Redemption#9.3$1994%Morgan Freeman, Tim Robbins.}
+{A Clockwork Orange#8.4$1971%Malcom McDowell, Sharon Tate.}
+{Apocalypse Now#8.6$1981%Marlon Brando, Harrison Ford.}
+{Inglorious Basterds#8.4$2009%Brad Pitt, Diane Kruger, Christopher Waltz, Eli Roth.}
+{Scarface#8.2$1983%Al Pacino, Michael Pffeifer.}
+{Birdman#7.8$2014%Micheal Keaton, Edward Norton, Naomi Watts, Emma Stone.}
+{Inception#8.6$2010%Leonardo DiCaprio, Tom Hardy, Cillian Murphy, Marlon Cottilard, Joseph Gordon.}
+{Interstellar#9.2$2014%Mathew McConaughey, Matt Damon, Jessica Chastain, Anne Hathaway.}
+{Gladiator#8.5$2000%Russel Crowe, Joaquin Phoenix, Djimon Hounsou.}
+{Shutter Island#8.9$2010%Leonardo DiCaprio, Mark Ruffalo, Ben Kingsley.}
+{American Beauty#8.2$1999%Kevin Spacey, Mena Suvari.}{Whiplash#8.2$2014%Miles Teller, JK Simmons, Mellisa Benoist.}
+{A Beautiful Mind#8.1$2001%Russel Crowe, Jennifer Connelly.}
+{Vaaranam Aayiram#8.4$2008%Suriya Sivakumar, Simran, Sameera Reddy, Divya Spandana, Karthik.}
+{Arjun Reddy#8.3$2016%Vijay Deverakonda, Shalini Pandey}
+{The Departed#8.6$2006%Leonardo DiCaprio, Mark Wahlberg, Matt Damon, Jack Nicholson.}
+{Taxi Driver#8.5$1975%Robert DeNi Niro, Harvey Keitel, Jodie Foster, Martin Scorcese.}
+{Django Unchained#8.1$2012%Jamie Foxx, Christopher Waltz, Leonardo Di Caprio.}
+{The Dark Knight Rises#8.2$2012%Christian Bale, Anne Hathaway, Joseph Gordon Levitt, Tom Hardy, Gary Oldman.}
+{The Wolf of Wall Street#8.2$2013%Leonardo Di Caprio, Margot Robbie, Jonah Hill, Mathew McConaughey}
+{Pursuit of Happyness#8.9$2006%Will Smith, Jaden Smith.}
+{Dead Poet's Society#8.2$1989%Robin Williams, Ethan Hawke.}
+{Good Will Hunting#8.7$1998%Robin Williams, Matt Damon, Ben Affleck.}
+{Se7en#8.5$1995%Brad Pitt, Morgan Freeman, Kevin Spacey, Gwyneth Paltrow.}
+{The Dark Knight Returns#9.4$2012%Batman, Mutant Leader, Robin.}
+{Goodfellas#8.6$1990%Ray Liotta, Robert De Niro, Joe Pesci.}
+{Vaaranam Aayiram#9$2008%Suriya Sivakumar, Simran, Sameera Reddy, Divya Spandana.}
+{Hey Ram#9.1$2002%Kamal Haasan, Shah Rukh Khan, Hema Malini, Naseerudin Shah.}
+{Pudhupettai#8.6$2006%Dhanush, Sneha, Vijay Sethupathi, Sonia Aggarwal.}
+{Petta#7.2$2019%Rajinikanth, Vijay Sethupathi, Nawazuddin Siddiqui, Simran.}
+{Mankatha#8.4$2011%Thala Ajith, Trisha, Arjun, Vaibhav.}
+{Thupakki#8.5$2012%Ilayathalapathi Vijay, Kajal Aggarwal, Vidyut Jamwaal.}
+{Kaththi#7.6$2014%Ilayathalapathi Vijay, Samantha, Neil Nithin Mukesh.}
+{Yennai Arinthal#7.8$2014%Thala Ajith, Trisha, Anushka, Arun Vijay.}
+{24#8$2016%Suriya Sivakumar, Samantha.}
+{96#8$2018%Vijay Sethupathi, Trisha, Gouri Kishan, Adithya Baaskar.}
+{Soodhu Kavvum#8.5$2013%Vijay Sethupathi, Bobby Simha, Karunakaran.}
+{NGK#7.4$2019%Suriya Sivakumar, Sai Pallavi, Rakul Preet.}

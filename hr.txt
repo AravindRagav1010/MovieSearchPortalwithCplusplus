@@ -1,0 +1,31 @@
+{No Country For Old Men#8.1$2006%Javier Bardem, Josh Brolin, Woody Harrelson.}
+{Fight Club#8.9$1999%Brad Pitt, Edward Norton, Helena Bonham Carter.}
+{The Godfather#9.2$1972%Al Pacino, Marlon Brando, James Caan, Diane Keaton.}
+{Forrest Gump#8.8$1994%Tom Hanks, Robin Wright, Gary Sinise}
+{Pulp Fiction#9$1994%John Travolta, Uma Thurman, Samuel Jackson, Bruce Willis.}
+{The Dark Knight#9$2008%Christian Bale, Heath Ledger, Gary Oldman.}
+{The Shawshank Redemption#9.3$1994%Morgan Freeman, Tim Robbins.}
+{A Clockwork Orange#8.4$1971%Malcom McDowell, Sharon Tate.}
+{Apocalypse Now#8.6$1981%Marlon Brando, Harrison Ford.}
+{Inglorious Basterds#8.4$2009%Brad Pitt, Diane Kruger, Christopher Waltz, Eli Roth.}
+{Scarface#8.2$1983%Al Pacino, Michael Pffeifer.}
+{Birdman#7.8$2014%Micheal Keaton, Edward Norton, Naomi Watts, Emma Stone.}
+{Inception#8.6$2010%Leonardo DiCaprio, Tom Hardy, Cillian Murphy, Marlon Cottilard, Joseph Gordon.}
+{Interstellar#9.2$2014%Mathew McConaughey, Matt Damon, Jessica Chastain, Anne Hathaway.}
+{Gladiator#8.5$2000%Russel Crowe, Joaquin Phoenix, Djimon Hounsou.}
+{Shutter Island#8.9$2010%Leonardo DiCaprio, Mark Ruffalo, Ben Kingsley.}
+{American Beauty#8.2$1999%Kevin Spacey, Mena Suvari.}{Whiplash#8.2$2014%Miles Teller, JK Simmons, Mellisa Benoist.}
+{A Beautiful Mind#8.1$2001%Russel Crowe, Jennifer Connelly.}
+{Vaaranam Aayiram#8.4$2008%Suriya Sivakumar, Simran, Sameera Reddy, Divya Spandana, Karthik.}
+{Arjun Reddy#8.3$2016%Vijay Deverakonda, Shalini Pandey}
+{The Departed#8.6$2006%Leonardo DiCaprio, Mark Wahlberg, Matt Damon, Jack Nicholson.}
+{Taxi Driver#8.5$1975%Robert DeNi Niro, Harvey Keitel, Jodie Foster, Martin Scorcese.}
+{Django Unchained#8.1$2012%Jamie Foxx, Christopher Waltz, Leonardo Di Caprio.}
+{The Dark Knight Rises#8.2$2012%Christian Bale, Anne Hathaway, Joseph Gordon Levitt, Tom Hardy, Gary Oldman.}
+{The Wolf of Wall Street#8.2$2013%Leonardo Di Caprio, Margot Robbie, Jonah Hill, Mathew McConaughey}
+{Pursuit of Happyness#8.9$2006%Will Smith, Jaden Smith.}
+{Dead Poet's Society#8.2$1989%Robin Williams, Ethan Hawke.}
+{Good Will Hunting#8.7$1998%Robin Williams, Matt Damon, Ben Affleck.}
+{Se7en#8.5$1995%Brad Pitt, Morgan Freeman, Kevin Spacey, Gwyneth Paltrow.}
+{The Dark Knight Returns#9.4$2012%Batman, Mutant Leader, Robin.}
+{Goodfellas#8.6$1990%Ray Liotta, Robert De Niro, Joe Pesci.}
