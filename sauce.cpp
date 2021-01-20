@@ -581,7 +581,7 @@ getch();
 }
 void write(member m)
 {
-ofstream f("mem.txt",ios::app);
+ofstream f("C:/moviesearchproject/mem.txt",ios::app);
 int len1,len2,len3,len4;
 len1=strlen(m.username);
 len2=strlen(m.password);
@@ -642,8 +642,8 @@ char usename[50],sqaa[50];
 char was,cha;
 int len,N;
 char newpas[40],conpas[40],oldpas[40];
-ifstream F("mem.txt");
-ofstream r("mem.txt",ios::ate);
+ifstream F("C:/moviesearchproject/mem.txt");
+ofstream r("C:/moviesearchproject/mem.txt",ios::ate);
 while(!F.eof())
 {F>>cha;
 if(cha=='{')
@@ -895,7 +895,7 @@ struct movie
 
   void size(movie m)
  {
-   ofstream F("sp.txt",ios::app);
+   ofstream F("C:/moviesearchproject/sp.txt",ios::app);
 
    int l1,l2,l3,l4;
    char s='\n';
@@ -986,7 +986,7 @@ int search(char name[50],int l)
  int c,j,i,check;
  char ch,waste;
 
- ifstream f("gen.txt");
+ ifstream f("C:/moviesearchproject/gen.txt");
 
  while(!f.eof())
  {
@@ -1037,7 +1037,7 @@ int searchregional(char name[50],int l)
  int c,j,i,check;
  char ch,waste;
 
- ifstream f("REG.txt");
+ ifstream f("C:/moviesearchproject/REG.txt");
 
  while(!f.eof())
  {
@@ -1087,7 +1087,7 @@ int searchtv(char name[50],int l)
  int c,j,i,check;
  char ch,waste;
 
- ifstream f("sp.txt");
+ ifstream f("C:/moviesearchproject/sp.txt");
 
  while(!f.eof())
  {
@@ -1138,7 +1138,7 @@ int searchtv(char name[50],int l)
  int c,j,i,check;
  char ch,waste;
 
- ifstream f("fan.txt");
+ ifstream f("C:/moviesearchproject/fan.txt");
 
  while(!f.eof())
  {
@@ -1187,7 +1187,7 @@ int searchhighrated(char name[50],int l)
  int c,j,i,check;
  char ch,waste;
 
- ifstream f("hr.txt");
+ ifstream f("C:/moviesearchproject/hr.txt");
 
  while(!f.eof())
  {
@@ -1236,7 +1236,7 @@ int searchhighrated(char name[50],int l)
  int c,j,i,check;
  char ch,waste;
 
- ifstream f("am.txt");
+ ifstream f("C:/moviesearchproject/am.txt");
 
  while(!f.eof())
  {
@@ -1286,7 +1286,7 @@ int searchanime(char name[50],int l)
  int c,j,i,check;
  char ch,waste;
 
- ifstream f("jp.txt");
+ ifstream f("C:/moviesearchproject/jp.txt");
 
  while(!f.eof())
  {
@@ -1890,7 +1890,7 @@ while(s==1);
  for(i=0;i<47;i++)
  cprintf("*");}//theatre or a laptop
  char ch,w,sq[50],us[50],pass[50];
- ifstream f("mem.txt",ios::ate);
+ ifstream f("C:/moviesearchproject/mem.txt",ios::ate);
  f.seekg(0,ios::beg);
  gotoxy(3,4);
  cprintf("Enter \".\" to exit");
